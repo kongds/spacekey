@@ -1,3 +1,3 @@
 # spacekey
 
-A simple python implementation of SpaceLauncher to map Space+<key> for anything.
+A simple python implementation of SpaceLauncher to map Space+\<key\> for anything.
